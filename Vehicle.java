@@ -1,4 +1,3 @@
-
 /**
  * 
  * The Vehicle class will be used to check the amount of fuel left in a
