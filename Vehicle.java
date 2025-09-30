@@ -30,7 +30,7 @@ public class Vehicle
     
     /**
      * Returns the miles that this vehicle can drive based on how much fuel is left
-     * in the tank and the mpg.
+     * in the tank and the mpg. This method should truncate the result (typecast to an int).
      */
     public int milesLeftOnTank(){
         // TODO
